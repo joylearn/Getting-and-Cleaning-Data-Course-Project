@@ -3,7 +3,7 @@
 This repository hosts the R code and documentation files for the Data Science's track course "Getting and Cleaning data", available in coursera.
 
 
-## Files
+## Files in this respository : 
 
 The `run_analysis.R` assumes that all the data files needed are present in the same folder, un-compressed and filenames unaltered.
 
@@ -19,4 +19,4 @@ The code in `run_analysis.R`does :
 `CodeBook.md` describes the variables, the data, and any transformations or work that was performed to clean up the data.
 
 
-The output of the 5th step is called `tiny data.txt`. 
+The output of the 5th step is called `tiny.txt`. 
